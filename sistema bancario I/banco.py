@@ -12,9 +12,6 @@ saldo = 0
 limite = 500
 saques = 0
 LIMITE_SAQUES = 3
-
-# ...existing code...
-
 extrato = []
 
 while True:
